@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an app to track books!**
 
-- 🌱 I’m currently learning **Typescript, Javascript & Tensorflow**
+- 🌱 I’m currently learning **Typescript, Javascript & Ethical Hacking**
 
 - 🔥My go-to tech stack : **React.js + TS**
 
