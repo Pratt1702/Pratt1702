@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript, Javascript & Ethical Hacking**
 
-- 🔥My go-to tech stack : **React.js + TS**
+- 🔥 My go-to tech stack : **React.js + TS**
 
 - 😌 Good at : **Full-stack user-centric application development, Ideation, User-flows, UX and Back-end logic.**
 
