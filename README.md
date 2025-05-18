@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratt1702" alt="pratt1702" /></a> </p>
 
-- 🔭 I’m currently working on **an app to track books! (MVP will be out soon!!!)**
+- 🔭 I’m currently working on **Shelfscape - an app to track your reading journey!**
 
 - 🌱 I’m currently learning **Typescript, Javascript & Cyber security (thinking to learn Tensorflow)**
 
