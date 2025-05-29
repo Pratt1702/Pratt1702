@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Shelfscape - track what you read, reflect on who you become!! an app for book lovers!**
 
-- 🌱 I’m currently learning **Typescript, Javascript & Cyber security (thinking to learn Tensorflow)**
+- 🌱 I’m currently learning **Typescript, Javascript & Cyber security (AppSec and Pen testing) (thinking to learn Tensorflow)**
 
 - 🔥 My go-to tech stack : **React.js + TS**
 
