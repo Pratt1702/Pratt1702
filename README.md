@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Shelfscape - track what you read, reflect on who you become!! an app for book lovers!**
 
-- 🌱 I’m currently learning **Typescript, Javascript & Cyber security (AppSec and Pen testing) (thinking to learn Tensorflow)**
+- 🌱 I’m currently learning **Tailwind CSS & Cyber security (AppSec and Pen testing)**
 
-- 🔥 My go-to tech stack : **React.js + TS**
+- 🔥 My go-to tech stack : **React.js + TS + PostgreSQL**
 
 - 😌 Good at : **Full-stack user-centric application development, Ideation, User-flows, UX and Back-end logic.**
 
