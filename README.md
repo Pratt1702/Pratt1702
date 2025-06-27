@@ -17,11 +17,15 @@
 <p align="left">
 <a href="https://linkedin.com/in/prathikrkrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathikrkrishnan" height="30" width="40" /></a>
 <a href="https://instagram.com/plxttinum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="plxttinum" height="30" width="40" /></a>
+  <a href="https://discord.gg/AEYnnXSx6Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AEYnnXSx6Y" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@plxttinum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="plxttinum" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prattmusic1702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prattmusic1702" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prathikrkrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathikrkrishnan" height="30" width="40" /></a>
-</p>
 
+</p>
+<p align="left">Click
+<a href="https://codolio.com/profile/PrathikRKrishnan" target="blank"> here</a> to see overall coding portfolio
+</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratt1702&show_icons=true&locale=en&layout=compact" alt="pratt1702" /></p>
