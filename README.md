@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Shelfscape - track what you read, reflect on who you become!! an app for book lovers!**
 
-- 🌱 I’m currently learning **Tailwind CSS & Cyber security (AppSec and Pen testing)**
+- 🌱 I’m currently learning **Automations & Zapier**
 
 - 🔥 My go-to tech stack : **React.js + TS + PostgreSQL**
 
