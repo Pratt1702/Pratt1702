@@ -6,7 +6,7 @@
 - 🥳 Launched **ShelfScape - An app to track your book reading journey and habits 🎉✨**
 - 🔭 I’m currently working on **A platform for SMB owners to avoid revenue leaks!**
 
-- 🌱 I’m currently learning **Cron, Express.js, Stripe API**
+- 🌱 I’m currently learning **Cron, Express.js, Stripe API, TailwindCSS, Three.js**
 
 - 🔥 My go-to tech stack : **React.js + TS + PostgreSQL**
 
