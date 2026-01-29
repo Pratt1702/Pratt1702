@@ -4,7 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratt1702" alt="pratt1702" /></a> </p>
 
 - 🥳 Launched **ShelfScape - An app to track your book reading journey and habits 🎉✨**
-- 🔭 I’m currently working on **A platform for SMB owners to avoid revenue leaks!**
 
 - 🌱 I’m currently learning **Cron, Express.js, Stripe API, TailwindCSS, Three.js**
 
