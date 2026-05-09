@@ -1,5 +1,5 @@
 <h1 align="center">Hey there!👋 I'm Pratheek</h1>
-<h3 align="center">A computer science geek who is really interested in startups and software development</h3>
+<h3 align="center">A computer science geek who is really interested in fintech and software development</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratt1702" alt="pratt1702" /></a> </p>
 <h3>💫 About Me:</h3>
 🥳 Launched ShelfScape - An app to track and build your reading habits with other people 🎉✨<br>🌱 I’m currently learning Cron, TailwindCSS & Tool-calling Agentic LLMs<br>🔥 My go-to tech stack : Vite/React.js + TS + PostgreSQL<br>😌 Good at : Full-stack user-centric application development, Ideation, User-flows, UX and Back-end logic. I can build a full product from nothing to deployment :)
